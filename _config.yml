@@ -10,7 +10,7 @@
 carpentry: "cp"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Collaborative Lesson Development Training: Part 1"
 
 
 #------------------------------------------------------------
@@ -53,7 +53,7 @@ post_survey: "https://carpentries.typeform.com/to/UgVdRQ#slug="
 instructor_pre_survey: "https://carpentries.typeform.com/to/QVOarK#slug="
 instructor_post_survey: "https://carpentries.typeform.com/to/cjJ9UP#slug="
 lessondev_pre_survey: FIXME
-lessondev_pre_survey: FIXME
+lessondev_post_survey: FIXME
 
 # Set to 'true' for instructor training websites only.
 instructor_training: false
